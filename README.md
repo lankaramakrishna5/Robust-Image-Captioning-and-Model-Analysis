@@ -8,10 +8,6 @@ This repository contains the official implementation for the project "Robust Ima
 - [Project Overview](#project-overview)
 - [Methodology](#methodology)
 - [Dataset](#dataset)
-- [Setup and Installation](#setup-and-installation)
-- [How to Run](#how-to-run)
-- [Project Structure](#project-structure)
-- [Key Results](#key-results)
   
 ## Project Overview
 
